@@ -1,1 +1,1 @@
-# Insertion-Sort---Part-1-ALGO
+# Insertion-Sort-Part-1-ALGO.This code performs the final step of insertion sort by taking the last element (key) and shifting larger elements to the right, printing the array after each shift, then inserting the key in its correct position. The Main method reads input and calls insertionSort1 to display each intermediate array state.
